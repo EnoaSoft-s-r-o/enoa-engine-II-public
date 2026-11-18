@@ -1,0 +1,21 @@
+# Public info repository only
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+*.exe
+*.dll
+*.pdb
+*.zip
+*.rar
+*.7z
+*.blend
+*.glb
+*.gltf
+*.fbx
+.env
+.env.*
+*.pem
+*.key
+*.p12
