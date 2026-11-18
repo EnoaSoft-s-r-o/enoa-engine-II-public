@@ -5,7 +5,7 @@
 
 > **Public information repository.** This repository documents the project and provides selected development images. The engine source code, game source, build tools, binaries and private assets are **not published here**.
 
-[Website](https://enoasoft.cz) · [Česky](docs/README_CS.md) · [Development status](docs/STATUS.md) · [FAQ](docs/FAQ.md)
+[Website](https://enoasoft.cz) · [Česky](docs/README_CS.md) · [Development status](docs/STATUS.md) · [FAQ](docs/FAQ.md) · [Wiki draft / documentation](wiki-source/Home.md)
 
 ![Enoa-Engine II — editor development screenshot](media/screenshots/editor-scene.jpg)
 
